@@ -1,0 +1,26 @@
+.container{
+    background-color:rgb(164, 163, 163);
+    width: 400px;
+    height: 400px;
+    margin: 0% 10% 10%;
+    text-align: center;
+    grid-template-columns: auto;
+    gap: 10%;
+}
+img{
+    margin:30px;
+    border: solid 2px;
+    width: 250px;
+    height: 150px;    
+}
+button{
+    background-color: rgb(35, 170, 38); 
+}
+.header{
+    display: flex;
+    flex-wrap: wrap;
+}
+body{
+    display: grid;
+    
+}
